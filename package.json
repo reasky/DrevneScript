@@ -1,0 +1,24 @@
+{
+  "name": "drevne",
+  "version": "0.0.6-century",
+  "description": "Древнерусский язык программирования",
+  "main": "древнерус.js",
+  "files": [
+    "древнерус.js",
+    "package.json",
+    "README.md"
+  ],
+  "dependencies": {
+    "@babel/generator": "^7.23.3",
+    "@babel/parser": "^7.23.3",
+    "@babel/traverse": "^7.23.3",
+    "fs": "^0.0.1-security"
+  },
+  "author": "reaskydev",
+  "keywords": [
+    "transpiler",
+    "drevne",
+    "language",
+    "drevnescript"
+  ]
+}
